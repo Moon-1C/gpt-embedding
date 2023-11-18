@@ -1,0 +1,10 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+openai == 0.28.1
+langchain == 0.0.329
+faiss-cpu == 1.7.4
+#sentence_transformers == 2.2.2
+tiktoken == 0.5.1
+sqlalchemy == 2.0.23
+pandas == 1.4.2
+openpyxl ==  3.0.9
